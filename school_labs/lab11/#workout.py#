@@ -1,0 +1,5 @@
+class vec3:
+    def __int__(self,mylist = [0,0,0]):
+        self.lst = mylist
+    def __str__(self):
+        return str(self.lst)
