@@ -23,7 +23,7 @@ class tic_tac_toe:
 
         for i in self.board:
             print(i)
-            
+
         if self.player == 1:
             self.player = 2
         else:
