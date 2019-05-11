@@ -18,6 +18,7 @@ def phonebook(menu):
         adding = csv.writer(mybook)
         adding.writerow(new_info)
         print("Adding Completed!")
+
         mybook.close()
 
 # Searching information when menu = 2
