@@ -1,0 +1,3 @@
+Welcome to my Leetcode folder!
+
+This folder has three sub-folders, each of them represents its difficulty.

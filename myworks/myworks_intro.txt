@@ -1,0 +1,19 @@
+Welcome to myworks folder!
+
+I am uploading most of my regular works/projects/practices in this folder.
+
+My previous works are under "python_practice" folder, but works there will soon be moved into this folder.
+
+It mainly has three sub folders:
+ 1. Data Science
+ 2. Leetcode (Algorithm)
+ 3. Personal_projects
+
+
+Briefly speaking,
+
+Data Science  - Usages of Pandas, Numpy, ..etc
+
+LeetCode - Famous websites for coding practices. I use it as main source of my regular practices
+
+Personal_projects - For fun! I am going to make something fun when I need some break from regular practices!

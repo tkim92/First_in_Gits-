@@ -1,0 +1,13 @@
+Welcome to my Data Science Folder!
+
+Nothing fancy, but to keep records of my work related to Data Science/Analysis.
+
+Codes/projects in this folder mainly demonstrate the followings.
+
+1. Basic/Advanced data - related libraries such as Pandas, Numpy, Matplotlib, etc
+
+2. Manipulating data into different form (often in purpose of analysis)
+
+3. Personal practices
+
+4. Machine Learning/Data Mining coming soon

@@ -1,0 +1,27 @@
+This is the main directory of my GitHub page.
+
+My first experience with Python was through the course work at school.
+I would like to improve my Python programming skills
+ beyond the level I reached after successfully finishing the course.
+
+
+Here is the little instruction to guide my GitHub.
+
+1. "myworks":
+  The main folder of my GitHub. All my practices, projects, and codes will be uploaded here.
+  Details of "myworks" folder will be provided within the folder.
+
+2. "school_" folders:
+  All school-related works
+
+3. "theories" folder:
+  Personal memo/note regard of theories (either mathematical, python, statistical, and etc)
+
+4. "testing_folder":
+  Personal testing runs. Just to verify my logic or to test a code if it runs well.
+
+5. "python_practice":
+  My former works before re-designing the structures of my GitHub.
+  It will be soon updated to "myworks" folder.
+
+  
